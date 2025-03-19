@@ -1,5 +1,5 @@
 import React from 'react';
-import SceneManagerComponent from  './SceneManager';
+import SceneManagerComponent from  './componenets/SceneManager';
 
 function App() {
   return (
